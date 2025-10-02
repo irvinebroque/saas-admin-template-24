@@ -19,7 +19,7 @@ A complete admin dashboard template built with Astro, Shadcn UI, and Cloudflare'
 - ✨ Clean, responsive interface
 - 🔍 Data validation with Zod
 
-give me preview urls plz
+give me preview urls plzzzz
 
 ## Tech Stack
 
